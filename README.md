@@ -40,3 +40,7 @@ USE misc;
         mileage INTEGER
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 ```
+
+From the eighth project, the course start using javascript, I also upload them here.
+
+8. Profile Database, (folder: res-profile), link: https://www.wa4e.com/assn/res-profile/
