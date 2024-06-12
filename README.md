@@ -45,3 +45,4 @@ From the eighth project, the course start using javascript, I also upload them h
 
 8. Profile Database, (folder: res-profile), link: https://www.wa4e.com/assn/res-profile/
 9. Profiles, Positions and jQuery, (folder: res-position), link: https://www.wa4e.com/assn/res-position/
+10. Profiles, Positions, and Education, (folder: res-education), link: https://www.wa4e.com/assn/res-education/
